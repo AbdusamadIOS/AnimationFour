@@ -7,6 +7,8 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		EE13B68B2C00B488007C6357 /* PetalView.swift in Sources */ = {isa = PBXBuildFile; fileRef = EE13B68A2C00B488007C6357 /* PetalView.swift */; };
+		EE13B68D2C00BBF0007C6357 /* SnowView.swift in Sources */ = {isa = PBXBuildFile; fileRef = EE13B68C2C00BBF0007C6357 /* SnowView.swift */; };
 		EE81BC9E2BFF99B200B7A3F7 /* AnimationFourApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = EE81BC9D2BFF99B200B7A3F7 /* AnimationFourApp.swift */; };
 		EE81BCA02BFF99B200B7A3F7 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = EE81BC9F2BFF99B200B7A3F7 /* ContentView.swift */; };
 		EE81BCA22BFF99B400B7A3F7 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = EE81BCA12BFF99B400B7A3F7 /* Assets.xcassets */; };
@@ -14,6 +16,8 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		EE13B68A2C00B488007C6357 /* PetalView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PetalView.swift; sourceTree = "<group>"; };
+		EE13B68C2C00BBF0007C6357 /* SnowView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SnowView.swift; sourceTree = "<group>"; };
 		EE81BC9A2BFF99B200B7A3F7 /* AnimationFour.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = AnimationFour.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		EE81BC9D2BFF99B200B7A3F7 /* AnimationFourApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AnimationFourApp.swift; sourceTree = "<group>"; };
 		EE81BC9F2BFF99B200B7A3F7 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -53,6 +57,8 @@
 			children = (
 				EE81BC9D2BFF99B200B7A3F7 /* AnimationFourApp.swift */,
 				EE81BC9F2BFF99B200B7A3F7 /* ContentView.swift */,
+				EE13B68A2C00B488007C6357 /* PetalView.swift */,
+				EE13B68C2C00BBF0007C6357 /* SnowView.swift */,
 				EE81BCA12BFF99B400B7A3F7 /* Assets.xcassets */,
 				EE81BCA32BFF99B400B7A3F7 /* Preview Content */,
 			);
@@ -138,7 +144,9 @@
 			buildActionMask = 2147483647;
 			files = (
 				EE81BCA02BFF99B200B7A3F7 /* ContentView.swift in Sources */,
+				EE13B68B2C00B488007C6357 /* PetalView.swift in Sources */,
 				EE81BC9E2BFF99B200B7A3F7 /* AnimationFourApp.swift in Sources */,
+				EE13B68D2C00BBF0007C6357 /* SnowView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
